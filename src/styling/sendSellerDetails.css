@@ -1,0 +1,44 @@
+.sellerDetails-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background: black;
+    color: white;
+    /*border: 1px solid red;*/
+}
+
+.signup-button{
+    width: 100%;
+    height: 100%;
+}
+
+.sellerDetails-form {
+    color: white;
+    background-color: #213547;
+    border: 2px solid green;
+    border-radius: 1em;
+    padding: 1px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    /*overflow: visible;*/
+    overflow-y: auto;
+    height: 300px;
+    /*height: 700px;*/
+    width: 300px;
+    /*margin-bottom: 30px;*/
+    /*margin-top: 30px;*/
+}
+/*.sellerDetails-form input{*/
+/*    height: 15px;*/
+
+/*}*/
+
+.text {
+    padding: 2em;
+}
+
+.sellerDetails-container {
+    /*border: 2px solid red;*/
+    margin: 5em;
+}
